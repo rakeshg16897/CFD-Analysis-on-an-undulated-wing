@@ -1,3 +1,3 @@
 # CFD-Analysis-on-an-undulated-wing
 This study employs Computational Fluid Dynamics (CFD) to investigate the flow behavior around a bio-inspired wing featuring humpback whale-like leading-edge undulations. The geometry was designed in SOLIDWORKS, and high-fidelity simulations were performed using the CRADLE software suite. A detailed convergence study with systematic mesh refinement validated the results, which include analysis of drag coefficients, pressure distribution, velocity vectors, and streamlines at various angles of attack. The project aims to elucidate the mechanisms by which biomimetic tubercles modify laminar and turbulent flow regimes to influence aerodynamic performance.
-										<a 
+									
